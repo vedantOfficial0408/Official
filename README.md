@@ -6,7 +6,6 @@ A powerful Python chatbot that uses the OpenAI ChatGPT API with advanced feature
 
 - **Interactive command-line interface** with rich conversation experience
 - **Web search capabilities** - Get real-time information from the internet
-- **File reading and analysis** - Read and analyze documents, code, and text files
 - **Memory persistence** - Remembers conversations between sessions
 - **Enhanced responses** - More detailed and informative answers
 - **System prompts** - Intelligent behavior and context awareness
@@ -94,3 +93,4 @@ You can modify the chatbot behavior by editing `chatbot.py`:
 ## Security Note
 
 Never commit your `.env` file to version control. Your API key should remain private.
+
