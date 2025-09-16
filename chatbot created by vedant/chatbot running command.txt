@@ -1,4 +1,0 @@
-1] open powershell
-2] cd "C:\Users\Vedant\OneDrive\Desktop\chatbot"   [Add path]
-3]  pip install -r requirements.txt        [run this command]
-4]  $env:GEMINI_API_KEY="AIzaSyDbgr2pcgTJ0fLxId1AJ2cEVnbKlRUNbjk"; py chatbot.py   [run this command]
